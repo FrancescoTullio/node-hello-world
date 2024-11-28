@@ -1,0 +1,12 @@
+{
+  "name": "esercizio-3",
+  "version": "1.0.0",
+  "description": "terzo esercizio",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "node --watch script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

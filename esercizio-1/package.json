@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "esercizio base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "node --watch script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "keywords": [
+    "node",
+    "intro"
+  ],
+  "author": "francesco tullio",
+  "license": "ISC"
+}

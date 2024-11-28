@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "secondo esercizio chiedo un numero",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "node --watch script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
